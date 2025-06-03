@@ -6,7 +6,7 @@ tokenizers
 wordcloud
 numpy
 scikit-learn
-matplotlib.pyplot
+matplotlib
 
 anyio==4.9.0
 click==8.2.0

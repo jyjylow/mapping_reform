@@ -5,7 +5,7 @@ sentence-transformers
 tokenizers
 wordcloud
 numpy
-sklearn.metrics.pairwise
+scikit-learn
 matplotlib.pyplot
 
 anyio==4.9.0

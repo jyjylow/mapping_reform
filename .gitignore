@@ -1,4 +1,5 @@
 .env
-ncse-venv/
+diss-venv/
 __marimo__/
 Agent
+data/

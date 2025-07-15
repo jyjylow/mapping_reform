@@ -1,5 +1,6 @@
 .env
 diss-venv/
+diss-venv311/
 __marimo__/
 Agent
 data/

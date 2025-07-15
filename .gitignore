@@ -3,5 +3,8 @@ diss-venv/
 diss-venv311/
 __marimo__/
 Agent
-data/
 notebooks/old/
+data/raw/
+data/article_embeddings/
+data/article_samples/archive/
+
